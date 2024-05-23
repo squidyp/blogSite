@@ -1,6 +1,6 @@
-baseURL = "https://gohugo.io"
-title = "Hugo Theme Tailwind Example Site"
-copyright = "Xiaoliang Wang"
+baseURL = "https://squidyp.dev"
+title = "SquidyP.dev"
+copyright = "Squidy P"
 paginate = 3 # for demonstration of pagination
 languageCode = "en"
 defaultContentLanguage = "en"
