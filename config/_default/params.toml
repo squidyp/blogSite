@@ -22,7 +22,7 @@ jsonLD = true
 # giscus is comments system powered by GitHub Discussions
 # generate configurations from https://giscus.app/
 [giscus]
-  enabled = true
+  enabled = false
   repo = "tomowang/hugo-theme-tailwind"
   repoID = "R_kgDOKjVJHA"
   category = "Announcements"
@@ -36,19 +36,19 @@ jsonLD = true
 
 [social_media]
   [[social_media.items]]
-    enabled = true
+    enabled = false
     title = 'Facebook'
     icon = 'brand-facebook'
     link = 'https://www.facebook.com/'
 
   [[social_media.items]]
     enabled = true
-    title = 'Twitter'
+    title = 'X'
     icon = 'brand-x'
-    link = 'https://twitter.com/__PurPleFoX__'
+    link = 'https://x.com/squidy_p/'
 
   [[social_media.items]]
-    enabled = true
+    enabled = false
     title = 'Instagram'
     icon = 'brand-instagram'
     link = 'https://www.instagram.com/'
@@ -57,10 +57,10 @@ jsonLD = true
     enabled = true
     title = 'LinkedIn'
     icon = 'brand-linkedin'
-    link = 'https://www.linkedin.com/'
+    link = 'https://www.linkedin.com/in/squidyp/'
 
   [[social_media.items]]
     enabled = true
     title = 'Github'
     icon = 'brand-github'
-    link = 'https://github.com/tomowang'
+    link = 'https://github.com/squidyp'
