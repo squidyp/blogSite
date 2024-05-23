@@ -4,7 +4,7 @@ author = "Your Name"
 copyright = "Your Name"
 paginate = 10
 languageCode = "en"
-theme = "tailwind"
+
 
 [params]
   # dir name of your blog content (default is `content/posts`).

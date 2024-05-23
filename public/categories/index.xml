@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Theme Tailwind Example Site</title>
-    <link>https://gohugo.io/categories/</link>
+    <link>https://example.com/categories/</link>
     <description>Recent content in Categories on Hugo Theme Tailwind Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Xiaoliang Wang)</managingEditor>
     <webMaster>user@example.com (Xiaoliang Wang)</webMaster>
-    <copyright>Xiaoliang Wang</copyright>
+    <copyright>Your Name</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gohugo.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://gohugo.io/categories/syntax/</link>
+      <link>https://example.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Xiaoliang Wang)</author>
-      <guid>https://gohugo.io/categories/syntax/</guid>
+      <guid>https://example.com/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>themes</title>
-      <link>https://gohugo.io/categories/themes/</link>
+      <link>https://example.com/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Xiaoliang Wang)</author>
-      <guid>https://gohugo.io/categories/themes/</guid>
+      <guid>https://example.com/categories/themes/</guid>
       <description></description>
     </item>
   </channel>
