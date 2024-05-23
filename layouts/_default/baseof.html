@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
 <head>
-  {{ block "title" . }}
+    <meta charset="utf-8">
+  </head>{{ block "title" . }}
     {{- $title := "" -}}
     {{- $siteTitle := $.Site.Title -}}
     {{- $subtitle := $.Site.Params.Subtitle -}}
